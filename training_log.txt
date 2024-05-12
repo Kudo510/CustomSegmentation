@@ -1,0 +1,55 @@
+[2024-05-07 13:43:59,755] [INFO] __main__: training loss of epoch 1 is 3.167621374130249
+[2024-05-07 13:45:42,731] [INFO] __main__: training loss of epoch 2 is 3.167478322982788
+[2024-05-07 13:47:07,940] [INFO] __main__: training loss of epoch 3 is 3.167868137359619
+[2024-05-07 13:48:30,167] [INFO] __main__: training loss of epoch 4 is 3.168358325958252
+[2024-05-07 13:49:50,417] [INFO] __main__: training loss of epoch 5 is 3.1676981449127197
+[2024-05-07 13:51:07,146] [INFO] __main__: training loss of epoch 6 is 3.1699182987213135
+[2024-05-07 13:52:38,133] [INFO] __main__: training loss of epoch 7 is 3.1695024967193604
+[2024-05-07 13:53:56,066] [INFO] __main__: training loss of epoch 8 is 3.167759656906128
+[2024-05-07 13:55:14,172] [INFO] __main__: training loss of epoch 9 is 3.1667840480804443
+[2024-05-07 13:56:33,581] [INFO] __main__: training loss of epoch 10 is 3.1680214405059814
+[2024-05-07 13:58:16,358] [INFO] __main__: training loss of epoch 1 is 3.6203839778900146
+[2024-05-07 13:58:32,391] [INFO] __main__: val loss is 3.607609987258911
+[2024-05-07 13:59:49,838] [INFO] __main__: training loss of epoch 2 is 3.61922550201416
+[2024-05-07 14:01:02,887] [INFO] __main__: training loss of epoch 3 is 3.619525909423828
+[2024-05-07 14:02:14,911] [INFO] __main__: training loss of epoch 4 is 3.6181716918945312
+[2024-05-07 14:06:06,326] [INFO] __main__: training loss of epoch 1 is 3.475862503051758
+[2024-05-07 14:06:21,994] [INFO] __main__: val loss is 3.49899959564209
+[2024-05-07 14:07:51,373] [INFO] __main__: training loss of epoch 2 is 3.4770214557647705
+[2024-05-07 14:09:19,976] [INFO] __main__: training loss of epoch 3 is 3.475862979888916
+[2024-05-07 14:10:47,860] [INFO] __main__: training loss of epoch 4 is 3.4744656085968018
+[2024-05-07 14:12:15,924] [INFO] __main__: training loss of epoch 5 is 3.4782683849334717
+[2024-05-07 14:13:43,910] [INFO] __main__: training loss of epoch 6 is 3.4781625270843506
+[2024-05-07 14:13:59,293] [INFO] __main__: val loss is 3.513476610183716
+[2024-05-07 14:15:26,945] [INFO] __main__: training loss of epoch 7 is 3.477510929107666
+[2024-05-07 14:16:54,208] [INFO] __main__: training loss of epoch 8 is 3.476468086242676
+[2024-05-07 14:18:22,185] [INFO] __main__: training loss of epoch 9 is 3.4770419597625732
+[2024-05-07 14:19:49,965] [INFO] __main__: training loss of epoch 10 is 3.4735448360443115
+[2024-05-07 14:21:17,712] [INFO] __main__: training loss of epoch 11 is 3.475104331970215
+[2024-05-07 14:21:33,200] [INFO] __main__: val loss is 3.4954280853271484
+[2024-05-07 14:23:00,934] [INFO] __main__: training loss of epoch 12 is 3.4763219356536865
+[2024-05-07 14:24:28,681] [INFO] __main__: training loss of epoch 13 is 3.474790096282959
+[2024-05-07 14:25:56,133] [INFO] __main__: training loss of epoch 14 is 3.479041576385498
+[2024-05-07 14:27:25,359] [INFO] __main__: training loss of epoch 15 is 3.4737870693206787
+[2024-05-07 14:49:53,483] [INFO] __main__: training loss of epoch 1 is 3.5403096675872803
+[2024-05-07 14:50:08,739] [INFO] __main__: val loss is 3.506776809692383
+[2024-05-07 14:51:25,274] [INFO] __main__: training loss of epoch 2 is 3.539126396179199
+[2024-05-07 14:52:42,048] [INFO] __main__: training loss of epoch 3 is 3.5376665592193604
+[2024-05-07 14:53:58,598] [INFO] __main__: training loss of epoch 4 is 3.537539005279541
+[2024-05-07 14:55:15,502] [INFO] __main__: training loss of epoch 5 is 3.539577007293701
+[2024-05-07 14:56:34,415] [INFO] __main__: training loss of epoch 6 is 3.536255359649658
+[2024-05-07 14:56:49,437] [INFO] __main__: val loss is 3.5108892917633057
+[2024-05-07 14:58:07,146] [INFO] __main__: training loss of epoch 7 is 3.534865379333496
+[2024-05-07 14:59:26,674] [INFO] __main__: training loss of epoch 8 is 3.539113998413086
+[2024-05-07 15:00:44,465] [INFO] __main__: training loss of epoch 9 is 3.542238712310791
+[2024-05-07 15:02:02,074] [INFO] __main__: training loss of epoch 10 is 3.534938335418701
+[2024-05-07 15:03:19,154] [INFO] __main__: training loss of epoch 11 is 3.5387520790100098
+[2024-05-07 15:03:32,701] [INFO] __main__: val loss is 3.5017967224121094
+[2024-05-07 15:04:51,092] [INFO] __main__: training loss of epoch 12 is 3.5364654064178467
+[2024-05-07 15:06:15,041] [INFO] __main__: training loss of epoch 13 is 3.535656452178955
+[2024-05-07 15:07:36,574] [INFO] __main__: training loss of epoch 14 is 3.540513515472412
+[2024-05-07 15:09:12,423] [INFO] __main__: Using cuda
+[2024-05-07 15:49:01,350] [WARNING] matplotlib.image: Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+[2024-05-07 15:49:09,687] [WARNING] matplotlib.image: Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+[2024-05-07 15:51:08,453] [WARNING] matplotlib.image: Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
+[2024-05-07 15:51:56,196] [WARNING] matplotlib.image: Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
